@@ -1,1 +1,1 @@
-# Diamond-Price-Predictor-Using-Neural-Networks-And-Regressions
+# Diamond-Price-Predictor-Using-Neural-Networks-And-Regression
